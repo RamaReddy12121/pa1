@@ -1,0 +1,19 @@
+@media (max-width:720px) {
+    .center{
+        margin: 0px;
+    }
+    
+    .fa-motorcycle{
+        margin: 0px;
+    }
+
+    .header1{
+        height: auto;
+    }
+
+    .nav li:nth-child(1){
+        margin : 0px;
+        
+    }
+    
+}

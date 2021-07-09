@@ -1,0 +1,328 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+
+
+.nav li:nth-child(1){
+    margin :20px 20px 20px 50px;
+    
+}
+
+.center{
+    margin: 0px 0px 0px 200px;
+}
+
+.nav-item{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fa-motorcycle{
+    margin: 25px 10px 20px 250px;
+}
+
+.header1{
+    height: 50px;
+    width: 100%;
+    background-color: azure;
+    color: black;
+    padding-bottom: 20px;
+}
+.header1 :hover{
+    color: red;
+}
+
+.navbar ul{
+    display: flex;
+    display: inline-flex;
+
+}
+
+.navbar ul li:nth-child(1){
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+.navbar ul li:nth-child(2){
+    margin-left: 200px;
+    margin-right: 400px;
+}
+
+.btn-outline-dark{
+    margin-right: 30px;
+}
+
+
+.fa-shopping-cart{
+    margin-left: 50px;
+}
+
+
+.navbar{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.navbar div{
+    padding-top: 15px;
+}
+
+.navbar ul li:hover{
+    color: black;
+}
+
+
+.img{ 
+    margin: auto;
+    width: 80%;
+    height: 70vh;
+    margin-top: 50px;
+}
+
+.card-img-top{
+    height: 200px;
+}
+
+.row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.main h3{
+    padding: 20px 0px;
+    border-bottom: 2px solid black;
+}
+
+.main{
+    width: 80%;
+    margin: auto;
+}
+
+.bottom1{
+    border-top: 2px solid black;
+    padding: 20px 0px;
+    border-bottom: 2px solid black;
+    
+}
+
+.bottom2{
+    padding: 20px;
+    
+}
+
+.b3{
+    float: left;
+    margin-right: 100px;
+    margin-left: 50px;
+    color: gray;
+}
+
+.b3 p{
+    margin-left: 30px;
+}
+
+.b5{
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.b3 ul li:hover{
+    color:red ;
+}
+
+.img1{
+    margin-bottom: 30px;
+    height: 80px;
+    width: 200px;
+}
+
+.img2{
+    height: 80px;
+    width: 200px;
+}
+
+.con{
+    color: red;
+    padding: 20px 20px 20px 0px;
+}
+
+.container{
+    border: 2px solid black;
+    margin-top: 40px;
+}
+
+.c{
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.why{
+    margin-left: 150px;
+    color: red;
+}
+
+.cardimg{
+    margin-left: 150px;
+}
+
+.main{
+    background-color: snow;
+}
+
+.current-price{
+    color: tomato;
+}
+
+.certificate{
+    height: 500px;
+    margin-right: 30px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.cer{
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.card-title{
+    color: red;
+}
+
+/* store*/
+
+
+.store{
+    width: 90%;
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+
+.city{
+    text-align: center;
+    border: 1px solid black;
+    width: 500px;
+    height: 180px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.btn-danger{
+    margin-top: 20px;
+}
+
+.city h2{
+    color: red;
+    padding-top: 20px;
+    
+}
+
+.main h1{
+    color: red;
+    text-align: center;
+    margin-top: 100px;
+
+} 
+
+.fix{
+    top: 0%;
+    left: 0%;
+    position: fixed;
+    width: 100%;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+
+}
+.fix ul li:nth-child(2){
+    margin-left: 200px;
+    margin-right: 400px;
+}
+
+
+.fix ul{
+    display: flex;
+    display: inline-flex;
+
+}
+
+.fix ul li:nth-child(1){
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+
+.btn-outline-dark{
+    margin-right: 30px;
+}
+
+
+.fa-shopping-cart{
+    margin-left: 50px;
+}
+
+.fix div{
+    padding-top: 15px;
+}
+
+.fix ul li:hover{
+    color: black;
+}
+
+footer{
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    position: fixed;
+    height: 40px;
+    text-align: center;
+    background-color: red;
+    padding-top: 10px;
+}
+/*fran*/
+.fran{
+    width: 100%;
+    height: 450px;
+    
+}
+
+.fimg{
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+
+.section {
+    background-color: red;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+
+
+
+
+.ffimge{
+
+    float: left;margin: 50px 30px 40px 100px;
+
+}
